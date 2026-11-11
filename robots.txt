@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://holyquran-app.github.io/sitemap.xml
